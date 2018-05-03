@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name= STM32CubeMX initialization code generator v4.24.0
+Comment=STM32CubeMX initialization code generator v4.24.0
+GenericName=STM32CubeMX
+Exec=/opt/STMicroelectronics/STM32Cube/STM32CubeMX/STM32CubeMX %F
+Icon=/opt/STMicroelectronics/STM32Cube/STM32CubeMX/help/STM32CubeMX.ico
+Path=/opt/STMicroelectronics/STM32Cube/STM32CubeMX
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=Development

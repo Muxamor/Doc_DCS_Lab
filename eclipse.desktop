@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name= Eclipse OXYGEN IDE for C/C++ Developres
+Comment=Eclipse OXYGEN IDE for C/C++ Developres
+GenericName=Eclipse
+Exec=/opt/eclipse/eclipse %F
+Icon=/opt/eclipse/icon.xpm
+Path=/opt/eclipse/
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=Development
